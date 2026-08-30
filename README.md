@@ -68,9 +68,6 @@ The dashboard helps analyze:
 - Salary distribution across departments
 - Geographic distribution of employees
 
-## 🎥 Project Demo
-
-[▶️ Watch Dashboard Demo](./demo/HR_Dashboard_Demo.mp4)
 
 ## 📁 Project Files
 
